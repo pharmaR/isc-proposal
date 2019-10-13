@@ -2,16 +2,29 @@
 <!-- 
 An idea of what is required to make the project actually happen
 -->
+<!-- In this project the R Validation Hub will lead a project that will: -->
+
+<!-- 1. Build upon the riskmetric R package, adding further metrics as identified by the R Validation Hub on our website.   -->
+<!-- 2. Construct an associated risk assessment app that will -->
+<!--     a. Provide a front end for the collection of metrics via riskmetric including visualisations and comparison metrics -->
+<!--     b. Store automated metrics and assessor comments within a structured database -->
+<!--     c. Enable the generation of risk assessment reports -->
+
+
 
 ## People
 <!--
 Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
 -->
+The R Validation Hub has an existing governance structure in place in the form of an [Executive Committee](https://www.pharmar.org/who/).  Two of the committee members are already leading the development of the riskmetric package and another will be assigned to oversee the construction of the app.  
+
+Two key additional resources are required; one to help implment the metrics; one to build the app.  It is intended that these will be separate individuals working in parallel although considerable slack has been built into the timelines such that a single knowlegable person could work on each piece consecutively.  In that case it is expected that the community would also assist in adding new metrics to riskmetric.
 
 ## Processes
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
+AS this is an ongoing project, no new processes are required.  The appointed executive committee member will perform a project management role and be responsible for reporting back on progress to the committee and wider community.  The entire project will be conducted within the open source community and components will be therefore be continuously available.
 
 ## Tools & Tech
 <!--
@@ -21,14 +34,26 @@ Will cloud computing be used - if yes are there are necessary components that wi
 
 Are there tools or tech that don't exist that will be produced to facilitate the project?
 -->
+The R Validation Hub maintains all code in various GitHub repositories under [pharmaR](https://github.com/pharmaR).  Work on riskmetric will continue within the existing repository.  A new repository (/repositories) will be created for the app.
+
+Beyond R, with common packages such as shiny, and Git, the only additional tool required will be a DBMS.  In the spirit of the project a free, open source system will be used.
+
+In the longer term the aim is to host the app but that is out of scope at this stage.
 
 ## Funding
 <!-- 
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
 
 -->
+We are requesting funding for $28,000 for the two pieces.  This approximately breaks down into:
+
+* $8,000 for the addition of metrics
+* $20,000 to build a database and fully working app
+
+These are approximate figures as it is expected that contractors will work on a time and materials basis.  Estimates are based on existing matrics within the R package and the construction of a prototype Shiny app for the R/Pharma Conference.
 
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
 -->
+As an ongoing initiative, the R Validation Hub already has the necessary controls in place to ensure the smooht-running of this project.  Despite a strong interest in the R Validation Hub from the pharmaceutical industry in general and the man ysuccesses to date, the request for funding reflects the fact that the group consists entirely of volunteers at this moment in time.  Funding would expedite the delivery of tools that we intend on building.
