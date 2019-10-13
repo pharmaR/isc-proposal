@@ -9,14 +9,18 @@ An optional section would be for R-Core signatories where changes to R are propo
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
+Overall accountability for the project falls to the R Validation Hub Executive Committee.
 
-## Contributors
-<!-- 
-Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
--->
+* Andy Nicholls (Chair)
+* Lyn Taylor (Secretary)
+* Joe Rickert (R Consortium)
+* Min Lee (Link to Transcelerate)
+* Yilong Zhang (Package Metrics Stream Lead)
+* Keaven Anderson (Testing Stream Lead)
+
 
 ## Consulted
 <!-- 
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->
-
+In terms of ISC members, this proposal has been shared with Joseph Rickert and the idea for a package and app has the general support of the R Validation Hub wider community, which also include Alun Bedding.
