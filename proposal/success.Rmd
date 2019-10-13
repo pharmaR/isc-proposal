@@ -7,16 +7,25 @@ Projects should have a definition of done that is measurable, and a thorough und
 <!-- 
 What does success look like? 
 -->
+The group has identified a set of common metrics to collect.  Once all of these have been implemented within riskmetric, that particular component is complete.
+
+A minimum viable app will be complete once the database in place and the app is able to read/write to it and generate HTML reports.  Reports in other formats are considered desirable but not necessary in this phase.
 
 ## Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
+The project breaks into very measureable components (eg the release of a package metric, the ability to generate a report) and each of these provides some measure of success against estimated timelines.
+
+A final notion of success will be achieved once a pharmaceutical organisation has adopted the tooling for use within their environment.  
 
 ## Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
+Development of the package and app are fairly self-contained work efforts, however there is the possibility that very risk-adverse organisations may wish to extend the set of metrics further.  In addition, it is likely that the R Validation Hub will later wish to host the app and further work will be required to make it more generally accessible.
+
+Following the completion of this project (in fact whilst it is ongoing), the group will switch attentions to package testing.  The aim is to provide a framework within which to develop environment qualification tests for R.
 
 ## Key risks
 <!-- 
@@ -28,3 +37,4 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
+As an ongoing initiative there are very few risks to the project.  The main risk is that no contractor has yet been identified to carry out the work. Timelines and costs could therefore be affected.  However the timelines are extremely conservative and cost is estimated on a time and materials basis which will help to mitigate some of the risk.   Otherwise the necesaary people, processes and tools are already in place.
