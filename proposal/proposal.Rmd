@@ -7,6 +7,16 @@ This is where the proposal should be outlined.
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
+The R Validation Hub initiative recently began phase II of a three phase roadmap designed to facilitate the use of R within the pharmaceutical industry.  During phase I, the group produced a prototype R package, [riskmetric](https://pharmar.github.io/riskmetric/), for the collection of a number of good practice metrics as part of a package risk assessment.  Although the basic structure of the package is complete, only a handful of metrcs are currently implemented.  In addition to the riskmetric package, a prototype Shiny app was also produced for an R/Pharma Conference workshop.  This app provided some basic visualisations and a repoirting cabability.
+
+In phase 2, the group is seeking to build upon riskmetric and add further metrics as identified by the R Validation Hub on our website.  Building upon the scucess of the prototype app, the group is now looking to build a risk assessment app that will:
+
+1. Provide a front end for the collection of metrics via riskmetric including visualisations and comparison metrics
+2. Store automated metrics and assessor comments within a structured database
+3. Enable the generation of risk assessment reports
+
+For a heavily regulated industry such as the pharmaceutical industry, the risk assessment is a key step in the adoption of open source technology for analytics.  The package and app, will reamin open source and both simplify and help to standardise the risk asessment process.
+
 
 ## Detail
 <!--
