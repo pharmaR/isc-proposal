@@ -17,7 +17,7 @@ As part of this second phase the group is seeking to:
     b. Store automated metrics and assessor comments within a structured database
     c. Enable the generation of risk assessment reports
 
-The bulk of the funded effort for this project would be focused on the app.
+The bulk of the funded effort for this project is to be focused on the app with the community contributing the majority of the required metrics.
 
 ## Detail
 <!--

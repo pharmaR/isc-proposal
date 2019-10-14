@@ -1,4 +1,4 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"R Validation Hub ISC Proposal"
 proposal.file<-"isc-proposal.Rmd"
 author<-"Andy Nicholls"
 

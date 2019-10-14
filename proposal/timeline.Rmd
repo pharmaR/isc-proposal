@@ -11,10 +11,12 @@ Covering the planning phase, this section should provide a relatively detailed p
 -->
 This project is a key component in phase II of the R Validation Hub's overall road-map.  The project itself breaks down into two distinct components:
 
-1. Build upon the riskmetric R package
+1. Derive risk assessment metrics
 2. Construct a risk assessment app
 
-The package is already available with MIT + file LICENSE and a prototype of the app was shared with colleagues from across industry at the R/Pharma conference in August 2019.  The start-up phase is therefore effectively complete already although if funding is secured then a contractor needs to be found to assist in the derivation of additional metrics for the package and to build a package assessment app.
+An initial set of risk assessment metrics has already been agreed by the R Validation Hub community.  To support the collection of the metrics, a prototype R package, riskmetric, has been created with MIT + file LICENSE and is available via GitHub.
+
+A prototype of the app was shared with colleagues from across industry at the R/Pharma conference in August 2019.  The start-up phase is therefore effectively complete.  However, if funding is secured then a contractor needs to be found to assist in the derivation of additional metrics for the package and to build a package assessment app.
 
 The aim is to complete both pieces by the end of July 2020 and share these with the rest of the industry at the 2020 R/Pharma Conference.
 

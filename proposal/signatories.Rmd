@@ -5,11 +5,9 @@ This section provides the ISC with a view of the support received from the commu
 An optional section would be for R-Core signatories where changes to R are proposed.
 -->
 
-## Project team
-<!-- 
-Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
--->
-Overall accountability for the project falls to the R Validation Hub Executive Committee.
+## R Validation Hub Governance
+
+Overall accountability for the R Validation Hub initiative project falls to the R Validation Hub Executive Committee.
 
 * Andy Nicholls (Chair)
 * Lyn Taylor (Secretary)
@@ -17,6 +15,13 @@ Overall accountability for the project falls to the R Validation Hub Executive C
 * Min Lee (Link to Transcelerate)
 * Yilong Zhang (Package Metrics Stream Lead)
 * Keaven Anderson (Testing Stream Lead)
+
+
+## Project team
+<!-- 
+Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
+-->
+This project breaks down into two pieces.  The larger application development piece will be lead by Andy Nicholls.  The collection of metrics will be lead jointly by Yilon Zhang and Douglas Kelkoff (who will also join the Excutive Committee).
 
 
 ## Consulted
