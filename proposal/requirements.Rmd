@@ -18,7 +18,7 @@ Who needs to be involved, what's the proposed structure, what will it take to ge
 -->
 The R Validation Hub has an existing governance structure in place in the form of an [Executive Committee](https://www.pharmar.org/who/).  Two of the committee members are already leading the development of the riskmetric package and another will be assigned to oversee the construction of the app.  
 
-Two key additional resources are required; one to help implment the metrics; one to build the app.  It is intended that these will be separate individuals working in parallel although considerable slack has been built into the timelines such that a single knowlegable person could work on each piece consecutively.  In that case it is expected that the community would also assist in adding new metrics to riskmetric.
+Two key additional resources are required; one to help implement the metrics; one to build the app.  It is intended that these will be separate individuals working in parallel although considerable slack has been built into the timelines such that a single knowledgeable person could work on each piece consecutively.  In that case it is expected that the community would also assist in adding new metrics to riskmetric.
 
 ## Processes
 <!-- 
@@ -50,10 +50,10 @@ We are requesting funding for $28,000 for the two pieces.  This approximately br
 * $8,000 for the addition of metrics
 * $20,000 to build a database and fully working app
 
-These are approximate figures as it is expected that contractors will work on a time and materials basis.  Estimates are based on existing matrics within the R package and the construction of a prototype Shiny app for the R/Pharma Conference.
+These are approximate figures as it is expected that contractors will work on a time and materials basis.  Estimates are based on existing metrics within the R package and the construction of a prototype Shiny app for the R/Pharma Conference.
 
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
 -->
-As an ongoing initiative, the R Validation Hub already has the necessary controls in place to ensure the smooht-running of this project.  Despite a strong interest in the R Validation Hub from the pharmaceutical industry in general and the man ysuccesses to date, the request for funding reflects the fact that the group consists entirely of volunteers at this moment in time.  Funding would expedite the delivery of tools that we intend on building.
+As an ongoing initiative, the R Validation Hub already has the necessary controls in place to ensure the smooth-running of this project.  Despite a strong interest in the R Validation Hub from the pharmaceutical industry in general and the many successes to date, the request for funding reflects the fact that the group consists entirely of volunteers at this moment in time.  Funding would expedite the delivery of tools that we intend on building.

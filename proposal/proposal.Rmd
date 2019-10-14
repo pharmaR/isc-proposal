@@ -7,7 +7,7 @@ This is where the proposal should be outlined.
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
-The [R Validation Hub ISC Working Group](https://www.pharmar.org/) recently began phase II of a three phase roadmap designed to facilitate the use of R within the pharmaceutical industry.  
+The [R Validation Hub ISC Working Group](https://www.pharmar.org/) recently began phase II of a three phase road-map designed to facilitate the use of R within the pharmaceutical industry.  
 
 As part of this second phase the group is seeking to:
 
@@ -17,7 +17,7 @@ As part of this second phase the group is seeking to:
     b. Store automated metrics and assessor comments within a structured database
     c. Enable the generation of risk assessment reports
 
-The bulk of the funded effort for this project would be focussed on the app.
+The bulk of the funded effort for this project would be focused on the app.
 
 ## Detail
 <!--
@@ -29,12 +29,12 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
-During phase I, the group produced a prototype R package, [riskmetric](https://pharmar.github.io/riskmetric/), for the collection of a number of package development good practice metrics as part of a package risk assessment.  Although the basic structure of the package is complete, only a handful of metrcs are currently implemented.  The aim is to source the community in order to add the majority of th specified metrics but some are seen as more technically challenging and require more focussed skills to implement.
+During phase I, the group produced a prototype R package, [riskmetric](https://pharmar.github.io/riskmetric/), for the collection of a number of package development good practice metrics as part of a package risk assessment.  Although the basic structure of the package is complete, only a handful of metrics are currently implemented.  The aim is to source the community in order to add the majority of the specified metrics but some are seen as more technically challenging and require more focused skills to implement.
 
-The R Validation Hub is advising companies to collect these metrics for packages that they wish to include as part of a qualified/validated R installation.  As part of a risk assessment, approproiate personnel will review the metrics and add comments to package assessment reports.  The aim of this project is to provide a simple, standardised means to produce these reports.  This will take the form of a database and app that will drive the package assessments.
+The R Validation Hub is advising companies to collect these metrics for packages that they wish to include as part of a qualified/validated R installation.  As part of a risk assessment, appropriate personnel will review the metrics and add comments to package assessment reports.  The aim of this project is to provide a simple, standardised means to produce these reports.  This will take the form of a database and app that will drive the package assessments.
 
-A [prototype Shiny app](https://github.com/pharmaR/rpharma2019/tree/master/risk_metrics/app) was produced for an R/Pharma Conference workshop.  As an idea of what might be possible the prototype app provides some basic visualisations and a reporting cabability but is is not currently connected to the riskmetric package and has no state-saving capability.
+A [prototype Shiny app](https://github.com/pharmaR/rpharma2019/tree/master/risk_metrics/app) was produced for an R/Pharma Conference workshop.  As an idea of what might be possible the prototype app provides some basic visualisations and a reporting capability but is is not currently connected to the riskmetric package and has no state-saving capability.
 
-With the community expected to contribute the majority of the package metrics, the bulk of the funded effort for this project would be focussed on the app and associated database which would enable longer-term storage of the decisions made for each package (essentially, is the package accepted into the distribution as is, or is further remediation/testing required to provide the necessary assurances).
+With the community expected to contribute the majority of the package metrics, the bulk of the funded effort for this project would be focused on the app and associated database which would enable longer-term storage of the decisions made for each package (essentially, is the package accepted into the distribution as is, or is further remediation/testing required to provide the necessary assurances).
 
-For a heavily regulated industry such as the pharmaceutical industry, the risk assessment is a key step in the adoption of open source technology for analytics.  The package and app, will reamin open source and both simplify and help to standardise the risk asessment process.
+For a heavily regulated industry such as the pharmaceutical industry, the risk assessment is a key step in the adoption of open source technology for analytics.  The package and app, will remain open source and both simplify and help to standardise the risk assessment process.

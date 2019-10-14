@@ -10,10 +10,10 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
-R is widely used in the pharmacuetical industry, but rarely within the context of regulatory submissions.  There are various reasons for this but the question of 'validation' is arguably the most prominent.
+R is widely used in the pharmaceutical industry, but rarely within the context of regulatory submissions.  There are various reasons for this but the question of 'validation' is arguably the most prominent.
 
 R Validation Hub is a cross-industry initiative whose mission is to enable the use of R by the Bio-Pharmaceutical Industry in a regulatory setting, where the output may be used in submissions to regulatory agencies.  Following lengthy discussions in various formats the group has now settled upon a workable approach that it feels will contribute to wider adoption of R within the pharmaceutical industry.  Much of the approach is described over sections of the [R Validation Hub website](https://www.pharmar.org/), although an upcoming white paper (due for release in October 2019) provides a more concise summary of the group's thinking on the subject.
 
 A key component of the proposed approach is a risk assessment of R packages that are intended for use within a qualified / validated environment.  There are some prototype R packages available in the open source community but there is currently no widely-agreed non-commercial approach to assessing R package risk.  
 
-An industry-led and approved tool for package risk assessments will help pave the way for wider adoption of R within regulatory-focussed departments (eg Biostatistics) within pharmaceutical companies; thereby opening up R and R packages to thousands of statisticians, programmers and data scientists that may today feel like they are 'not allowed' to use R for submission activities.
+An industry-led and approved tool for package risk assessments will help pave the way for wider adoption of R within regulatory-focused departments (eg Biostatistics) within pharmaceutical companies; thereby opening up R and R packages to thousands of statisticians, programmers and data scientists that may today feel like they are 'not allowed' to use R for submission activities.

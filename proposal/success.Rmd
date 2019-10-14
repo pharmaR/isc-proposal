@@ -15,7 +15,7 @@ A minimum viable app will be complete once the database in place and the app is 
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
-The project breaks into very measureable components (eg the release of a package metric, the ability to generate a report) and each of these provides some measure of success against estimated timelines.
+The project breaks into very measurable components (eg the release of a package metric, the ability to generate a report) and each of these provides some measure of success against estimated timelines.
 
 A final notion of success will be achieved once a pharmaceutical organisation has adopted the tooling for use within their environment.  
 
@@ -37,4 +37,4 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
-As an ongoing initiative there are very few risks to the project.  The main risk is that no contractor has yet been identified to carry out the work. Timelines and costs could therefore be affected.  However the timelines are extremely conservative and cost is estimated on a time and materials basis which will help to mitigate some of the risk.   Otherwise the necesaary people, processes and tools are already in place.
+As an ongoing initiative there are very few risks to the project.  The main risk is that no contractor has yet been identified to carry out the work. Timelines and costs could therefore be affected.  However the timelines are extremely conservative and cost is estimated on a time and materials basis which will help to mitigate some of the risk.   Otherwise the necessary people, processes and tools are already in place.
