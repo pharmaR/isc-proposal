@@ -26,7 +26,7 @@ Including target dates is really important as you need to be committed and the I
 -->
 ### The riskmetric R package
 
-The package itself is already in very good shape technically and instructions on how to extend the package and generate additional metrics are described [here](https://pharmar.github.io/riskmetric/articles/extending-riskmetric.html).  The development of riskmetric therefore simply requires the addition of remaining metrics.  Since the community is expected to contribute the bulk of the metrics, very little of the requested funding is required for the addition of metrics.  However, it is expected that the consultant used provides some advice / input into the derivation of the more complex metrics.
+A prototype of the riskmetric package itself has been developed during phase I and instructions on how to extend the package and generate additional metrics are described [here](https://pharmar.github.io/riskmetric/articles/extending-riskmetric.html).  The development of riskmetric now requires the addition of remaining metrics.  Since the community is expected to contribute the bulk of the metrics, very little of the requested funding is required for the addition of metrics.  However, it is expected that the consultant used provides some advice / input into the derivation of the more complex metrics.
 
 A list of metrics has already been identified and a draft list of key metrics are listed on the [R Validation Hub website](https://www.pharmar.org/packages/).  
 
