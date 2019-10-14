@@ -55,7 +55,7 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] UseR!
  - [ ] ISC meetings
 -->
-The content of the app was discussed in detail during phase I of the road-map and very little additional planning is expected to be required.  The group uses slack as its main comms channel with monthly group meetings and executive committee meetings in place to check on progress and outstanding actions.  
+The content of the app was discussed in detail during phase I of the road-map and very little additional planning is expected to be required.  The group uses slack as its main communication channel with monthly group meetings and executive committee meetings in place to check on progress and outstanding actions.  
 
 Major achievements/milestones are typically shared at the UseR! and R/Pharma conferences.
 

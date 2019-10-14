@@ -45,7 +45,7 @@ A [prototype Shiny app](https://github.com/pharmaR/rpharma2019/tree/master/risk_
 
 The bulk of the funded effort for this project would be focused on a new app and associated database which would enable longer-term storage of the decisions made for each package (essentially, is the package accepted into the distribution as is, or is further remediation/testing required to provide the necessary assurances).
 
-For a heavily regulated industry such as the pharmaceutical industry, the risk assessment is a key step in the adoption of open source technology for analytics.  The package and app, will remain open source and both simplify and help to standardise the risk assessment process.
+For a heavily regulated industry such as the pharmaceutical industry, the risk assessment is a key step to adopting open source technology for analytics.  The package and app, will remain open source and both simplify and help to standardise the risk assessment process.
 
 ### Assumptions / Dependencies
 

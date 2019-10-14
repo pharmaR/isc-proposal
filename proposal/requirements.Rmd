@@ -24,7 +24,7 @@ Two key additional resources are required; one to help implement the metrics; on
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
-AS this is an ongoing project, no new processes are required.  The appointed executive committee member will perform a project management role and be responsible for reporting back on progress to the committee and wider community.  The entire project will be conducted within the open source community and components will be therefore be continuously available.
+As this is an ongoing project, no new processes are required.  The appointed executive committee member will perform a project management role and be responsible for reporting back on progress to the committee and wider community.  The entire project will be conducted within the open source community and components will be therefore be continuously available.
 
 ## Tools & Tech
 <!--
