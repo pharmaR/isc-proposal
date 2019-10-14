@@ -1,0 +1,6 @@
+Activity,Unit,Time per unit (hours),Total Time (hours),Total Time (days)
+"Derivation of new metrics to be fed into riskmetric, including testing",14,6,84,12
+Create package database,1,30,30,4
+Build Shiny app shell,1,120,120,16
+Connect DB and app,1,15,15,2
+Report generation,1,15,15,2

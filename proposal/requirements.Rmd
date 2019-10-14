@@ -45,10 +45,29 @@ In the longer term the aim is to host the app but that is out of scope at this s
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
 
 -->
+
+The time estimate for the the project breaks down as follows:
+
+```{r, echo = FALSE, message = FALSE}
+library(dplyr)
+library(gt)
+times <- readr::read_csv("../data/time.csv")
+times_out <- times %>%
+  select(Activity , `Total Time (days)`)
+gt(times_out) %>%
+  tab_footnote(
+    footnote = "Only 4 days included in cost estimate as mostly developed by the community",
+    locations = cells_data(
+      columns = vars(`Total Time (days)`),
+      rows = Activity == "Derivation of new metrics to be fed into riskmetric, including testing")
+  )
+```
+
+
 We are requesting funding for $28,000 for the two pieces.  This approximately breaks down into:
 
-* $8,000 for the addition of metrics
-* $20,000 to build a database and fully working app
+* $4,000 for the addition of metrics
+* $24,000 to build a database and fully working app
 
 These are approximate figures as it is expected that contractors will work on a time and materials basis.  Estimates are based on existing metrics within the R package and the construction of a prototype Shiny app for the R/Pharma Conference.
 
