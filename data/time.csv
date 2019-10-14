@@ -1,6 +1,6 @@
 Activity,Unit,Time per unit (hours),Total Time (hours),Total Time (days),Cost @ $600 per day
-Derivation of new metrics,14,6,84,12,"$2,400.00"
-Create package database,1,30,30,4,"$2,400.00"
-Build Shiny app shell,1,120,120,16,"$9,600.00"
-Connect DB and app,1,15,15,2,"$1,200.00"
-Report generation,1,15,15,2,"$1,200.00"
+Derivation of new metrics,14,6,84,12,"$2,400"
+Create package database,1,30,30,4,"$2,400"
+Build Shiny app shell,1,120,120,16,"$9,600"
+Connect DB and app,1,15,15,2,"$1,200"
+Report generation,1,15,15,2,"$1,200"
