@@ -1,4 +1,4 @@
-proposal<-"R Validation Hub ISC Proposal"
+proposal<-"R Package Risk Assessment Application (R Validation Hub Working Group)"
 proposal.file<-"isc-proposal.Rmd"
 author<-"Andy Nicholls"
 
