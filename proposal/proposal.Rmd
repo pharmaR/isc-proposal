@@ -1,4 +1,4 @@
-# The proposal
+# The Proposal
 <!--
 This is where the proposal should be outlined. 
 -->
@@ -29,12 +29,24 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
-During phase I, the group produced a prototype R package, [riskmetric](https://pharmar.github.io/riskmetric/), for the collection of a number of package development good practice metrics as part of a package risk assessment.  Although the basic structure of the package is complete, only a handful of metrics are currently implemented.  The aim is to source the community in order to add the majority of the specified metrics but some are seen as more technically challenging and require more focused skills to implement.
+### Minimum Viable Product
 
-The R Validation Hub is advising companies to collect these metrics for packages that they wish to include as part of a qualified/validated R installation.  As part of a risk assessment, appropriate personnel will review the metrics and add comments to package assessment reports.  The aim of this project is to provide a simple, standardised means to produce these reports.  This will take the form of a database and app that will drive the package assessments.
+The R Validation Hub is advising companies to collect these metrics for packages that they wish to include as part of a qualified/validated R installation.  The ultimate aim of the project is to produce an app to assist with this task.  
+
+The expectation is that early adopters will clone a GitHub repository and run the app within their own environments.  As the full set of metrics are out of scope for the project, a Minimum Viable Product will collect and display pre-specified metrics for packages that the user selects.  For each package the user will be asked to review the metrics, provide comment and decide whether, based on the evidence in front of them, the package can be accepted into their environment for qualification.  For any given package the user will be able to generate a report containing their decision, comments, and all the metrics collected in order to make that decision.
+
+Eventually, the group would like to automate the collection of metrics and store in a central database (with a publicly accessible app sitting on top of the database).  This will reduce the required effort for anyone wishing to review package metrics.  This is considered out of scope for this project however.
+
+### Architecture
+
+During phase I, the group produced a prototype R package, [riskmetric](https://pharmar.github.io/riskmetric/).  The package collects some minimal information for specified packages and returns metrics such as whether the package has a news feed.  However, there are many metrics identified by the R Validation Hub community that have not yet been implemented.  The aim is for the community to add the majority of the missing metrics but some are seen as more technically challenging and require more focused skills to implement.
 
 A [prototype Shiny app](https://github.com/pharmaR/rpharma2019/tree/master/risk_metrics/app) was produced for an R/Pharma Conference workshop.  As an idea of what might be possible the prototype app provides some basic visualisations and a reporting capability but is is not currently connected to the riskmetric package and has no state-saving capability.
 
-With the community expected to contribute the majority of the package metrics, the bulk of the funded effort for this project would be focused on the app and associated database which would enable longer-term storage of the decisions made for each package (essentially, is the package accepted into the distribution as is, or is further remediation/testing required to provide the necessary assurances).
+The bulk of the funded effort for this project would be focused on a new app and associated database which would enable longer-term storage of the decisions made for each package (essentially, is the package accepted into the distribution as is, or is further remediation/testing required to provide the necessary assurances).
 
 For a heavily regulated industry such as the pharmaceutical industry, the risk assessment is a key step in the adoption of open source technology for analytics.  The package and app, will remain open source and both simplify and help to standardise the risk assessment process.
+
+### Assumptions / Dependencies
+
+The group are relying on the wider community to help add metrics to the riskmetric package.  Without these metrics the app itself cannot function.  Thus far the community approach has worked well but if the package does not evolve naturally then the group will look at other options.

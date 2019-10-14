@@ -64,7 +64,7 @@ gt(times_out) %>%
 ```
 
 
-We are requesting funding for $28,000 for the two pieces.  This approximately breaks down into:
+We are requesting funding for $16,800 for the two pieces.  This breaks down into:
 
 * $2,400 for additional of metrics
 * $14,400 to build a database and fully working app

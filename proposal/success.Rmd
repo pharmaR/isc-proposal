@@ -23,7 +23,7 @@ A final notion of success will be achieved once a pharmaceutical organisation ha
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
-Development of the package and app are fairly self-contained work efforts, however there is the possibility that very risk-adverse organisations may wish to extend the set of metrics further.  In addition, it is likely that the R Validation Hub will later wish to host the app and further work will be required to make it more generally accessible.
+Development of the package and app are fairly self-contained work efforts, however there is the possibility that very risk-adverse organisations may wish to extend the set of metrics further.  In addition, the group later intends to automate the collection of metrics and host the app and associated database to further facilitate the risk assessment task.  
 
 Following the completion of this project (in fact whilst it is ongoing), the group will switch attentions to package testing.  The aim is to provide a framework within which to develop environment qualification tests for R.
 

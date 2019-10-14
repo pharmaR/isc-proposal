@@ -10,11 +10,11 @@ An optional section would be for R-Core signatories where changes to R are propo
 Overall accountability for the R Validation Hub initiative project falls to the R Validation Hub Executive Committee.
 
 * Andy Nicholls (Chair)
-* Lyn Taylor (Secretary)
 * Joseph Rickert  (R Consortium)
+* Keaven Anderson (Testing Stream Lead)
+* Lyn Taylor (Secretary)
 * Min Lee (Link to Transcelerate)
 * Yilong Zhang (Package Metrics Stream Lead)
-* Keaven Anderson (Testing Stream Lead)
 
 
 ## Project team
