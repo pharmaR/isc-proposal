@@ -13,7 +13,7 @@ Overall accountability for the project falls to the R Validation Hub Executive C
 
 * Andy Nicholls (Chair)
 * Lyn Taylor (Secretary)
-* Joe Rickert (R Consortium)
+* Joseph Rickert  (R Consortium)
 * Min Lee (Link to Transcelerate)
 * Yilong Zhang (Package Metrics Stream Lead)
 * Keaven Anderson (Testing Stream Lead)
